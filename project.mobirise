@@ -443,8 +443,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
@@ -560,7 +560,10 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffeaea"
+              "color": "#ffeaea",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -570,7 +573,10 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#ffeaea"
+              "color": "#ffeaea",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -579,7 +585,7 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-739x1080.jpg",
