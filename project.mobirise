@@ -579,7 +579,7 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-739x1080.jpg",
